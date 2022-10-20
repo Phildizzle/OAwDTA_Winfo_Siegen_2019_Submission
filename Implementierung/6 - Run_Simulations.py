@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 20 09:02:20 2018
 
-@author: Johannes
+@author: Johannes, Philipp
 """
 
 ######################################
